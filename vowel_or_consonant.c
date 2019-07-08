@@ -22,3 +22,7 @@ int main()
     getch();
    return 0;
 }
+
+
+/*  (space)
+The character is not an alphabet. */
